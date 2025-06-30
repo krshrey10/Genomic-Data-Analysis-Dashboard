@@ -15,7 +15,7 @@ This project analyzes gene expression data (e.g., RNA-seq or microarray) to iden
 
 # Tech Stack
 
-##Python Libraries:
+## Python Libraries:
 
 1.Pandas (Data Manipulation)
 
